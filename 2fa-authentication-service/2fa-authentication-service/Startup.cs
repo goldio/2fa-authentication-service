@@ -11,7 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 using Microsoft.Extensions.Options;
 
-namespace _2fa_authentication_service
+namespace Gold.IO.Authentication.Service
 {
     public class Startup
     {

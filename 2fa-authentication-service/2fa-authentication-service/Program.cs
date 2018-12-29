@@ -8,7 +8,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 
-namespace _2fa_authentication_service
+namespace Gold.IO.Authentication.Service
 {
     public class Program
     {
