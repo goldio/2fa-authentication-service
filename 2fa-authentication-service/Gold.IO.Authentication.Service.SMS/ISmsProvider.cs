@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SmsRu.Enumerations;
+using System;
 using System.Collections.Generic;
 using System.Text;
 
